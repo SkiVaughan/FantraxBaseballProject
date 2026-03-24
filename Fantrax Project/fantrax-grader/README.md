@@ -20,8 +20,8 @@ Then load them before running:
 
 ```bash
 # Windows (PowerShell)
-$env:FANTRAX_USER="vaughankoscinski@gmail.com"
-$env:FANTRAX_PASS="Megatron999$$$
+$env:FANTRAX_USER=
+$env:FANTRAX_PASS=
 # Or use a .env loader
 ```
 
